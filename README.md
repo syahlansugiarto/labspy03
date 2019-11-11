@@ -6,7 +6,8 @@ TUGAS PRAKTIKUM 3
 Menampilkan Bilangan Acak Yang Lebih Kecil Dari 0.5
 Untuk menampilkan bilangan acak yang lebih kecil dari 0.5 dibutuhkan code seperti berikut:
 
-![pych tgs 3](https://user-images.githubusercontent.com/44828458/68595425-feec6980-04cb-11ea-9937-a50f366e4a6d.png)
+![pych tgs 3](https://user-images.githubusercontent.com/44828458/68597293-4e806480-04cf-11ea-8684-eb3507a73a51.png)
+
 (1). Pertama kita akan membuat perintah "num = int(input("masukkan bilangan: "))" untuk memasukkan nilai n yang diinginkan.
 
 (2). Kedua adalah memasukkan variable dibawah, untuk menentukan jumlah data yang akan kita cari.
